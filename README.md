@@ -13,6 +13,7 @@
 Google Colab:
 - Open the provided Colab link.
 - Click the Run button to execute the code directly in your browser.
+
 Running Locally:
 -Download the code as a Python (.py) file.
 - Ensure you have the diabetes dataset downloaded.
