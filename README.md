@@ -1,10 +1,10 @@
 
-# DSA-PROGRAMMING-ACT1
+# Search & Sort Algorithm Implementation(Daibetes Dataset)
 
-MEMBERS:
+## Description:
 
-LAMSIN, FRANCIS MICKU - LEADER 
+## Installation
 
-MAMAC, IRA ZAKY 
+## Usage
 
-DUETES, GREG DANIELLE
+## Sample Output
