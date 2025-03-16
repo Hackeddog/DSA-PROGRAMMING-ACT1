@@ -15,7 +15,7 @@ Google Colab:
 - Click the Run button to execute the code directly in your browser.
 
 Running Locally:
--Download the code as a Python (.py) file.
+- Download the code as a Python (.py) file.
 - Ensure you have the diabetes dataset downloaded.
 - Update the url_dataset variable found at the top of the code to the correct file path.
 - Open a 'command prompt' and navigate to the directory where the file is saved.
