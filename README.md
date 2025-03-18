@@ -5,7 +5,7 @@
 ### This program allows users to interactively sort and search diabetes data. It provides options to choose between sorting or searching, along with the flexibility to select the specific sorting algorithm or search method. Users can efficiently organize the data or find specific values based on their preferences.
 
 ## Installation:
-### To install the necessary libraries is that to import the pandas library and time library just type this line of code at the top "import pandas as pd" and "import time" 
+### To install the necessary libraries, import the pandas library and time library just type this line of code at the top "import pandas as pd" and "import time". If you're running this locally make sure to install the pandas in your unit go to the folder of your installed python then open cmd and type 'pip install pandas' for python 3 use 'pip3 install pandas'
 
 ## Usage:
 ### To run the code, follow these steps:
