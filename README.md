@@ -23,4 +23,13 @@ Running Locally:
 
 
 ## Sample Output
+### Search example
+![image](https://github.com/user-attachments/assets/95a99ddd-e2c5-4523-9188-7d59b5d0a01e)
+![image](https://github.com/user-attachments/assets/a7fceb66-cd59-41a6-b96c-a3447d25fc3a)
+### Sort Example
+![image](https://github.com/user-attachments/assets/2ff54a37-1a1c-49b5-bf7e-4b5369ec4a52)
+![image](https://github.com/user-attachments/assets/b89540cf-1470-40b9-9baa-2103fad9f782)
+
+
+
 
